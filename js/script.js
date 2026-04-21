@@ -630,7 +630,6 @@
             });
         }
 
-
         if ($('.home1_slider').length) {
             $('.home1_slider').each(function () {
                 // grabbing all values
@@ -742,8 +741,10 @@
                 });
             });
         }
+        
         if ($('.two-grid-slider').length) {
             $('.two-grid-slider').each(function () {
+                console.log("tercer nivel")
                 // grabbing all values
                 var Self                        = jQuery(this);
                 var ud_data_Animation           = Self.data('animateIn'); // = WOw Animatin wise
@@ -997,7 +998,7 @@
         scrollToTop();
         wowAnimation();
         flip_Clock();
-        twitterFeed();
+        //twitterFeed();
         UD_OwlDA();
     });
     
