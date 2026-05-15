@@ -130,7 +130,8 @@ nav.navbar.bootsnav.ulockd-menu-style2 li.dropdown ul.dropdown-menu,
 .ulockd-icd-layer::before,
 .ulockd-coming-soon::before,
 .ulockd-uconctruction::before {
-	background-color: rgba(109, 55, 149, 0.8);
+	/*background-color: rgba(109, 55, 149, 0.8);*/
+  background-color: #5A529E;
 }
 .ulockd-frst-divider.style1::before,
 .flickr-widget li .thumb .overlay,
