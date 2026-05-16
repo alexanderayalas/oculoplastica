@@ -4440,3 +4440,9 @@ select.form-control,
   text-align: center;
 }
 /* Pogo Slider End */
+.text-border {
+  color:red !important;
+  background-color: #111;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}

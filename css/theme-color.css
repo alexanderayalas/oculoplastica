@@ -117,10 +117,10 @@ li.ui-timepicker-selected
 .ulockd-tm-overlay,
 .bgc-thm-trnsp,
 .about-box:before {
-	background-color: rgba(109, 55, 149, 0.95);
+	background-color: #354079;
 }
 .ulockd-frst-divider::before {
-	background-color: rgba(109, 55, 149, 0.9);
+	background-color: #354079;
 }
 nav.navbar.bootsnav.menu-style1 li.dropdown ul.dropdown-menu,
 nav.navbar.bootsnav.sp-nav li.dropdown ul.dropdown-menu,
