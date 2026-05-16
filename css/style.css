@@ -116,7 +116,7 @@ h4 > a,
 h5,
 h5 > a,
 h6  {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Julius Sans One','Ubuntu', sans-serif;
   line-height: 1.42857143;
   color: #313131;
 }
@@ -128,7 +128,7 @@ h2,
 h2 > a {
   color: #313131;  
   font-size: 30px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Julius Sans One','Ubuntu', sans-serif;
   font-weight: 600;
 }
 h3 {
@@ -4306,6 +4306,9 @@ select.form-control,
 }
 .main-banner-one.owl-theme .owl-dots .owl-dot + .owl-dot{
   margin-left: 10px;
+}
+.text-white {
+  color: #354079 !important;
 }
 @media only screen and (max-width: 1280px){
   .main-banner-one.unlock-main-slider.owl-theme .owl-dots{
