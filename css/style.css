@@ -888,7 +888,7 @@ nav.menu-style1 .side .widget ul.link li a{
 .ulockd-service-box {
   border-radius: 20px;
   margin-bottom: 30px;
-  margin-top: -120px;
+  /*margin-top: -120px;*/
   padding: 30px 20px;
   position: relative;
 }
@@ -1943,7 +1943,7 @@ article.pd-content {
   box-shadow: 0px 10px 30px 1px rgba(0, 0, 0, 0.1);
 }
 .service-icon-box:before{
-  background-color: #5BA9D9;
+  background-color: #5A529E;
   border-radius: 5px;
   content: "";
   height: 100%;
@@ -1968,7 +1968,7 @@ article.pd-content {
 .service-icon-box:hover .icon,
 .service-icon-box:hover .details .title,
 .service-icon-box:hover .details p{
-  color: #fff;
+  color: #fff !important;
 }
 .service-icon-box .count{
   font-family: 'Ubuntu', sans-serif;
@@ -4445,4 +4445,7 @@ select.form-control,
   background-color: #111;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
+}
+.display-bloque {
+  display: block !important;
 }
